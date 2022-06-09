@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T21:49:12.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="GUa9_BysKw7NcVjTUh04" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-09T11:22:03.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="JRnxDOybojwH1Sv1w3I9" version="17.4.6" type="github">
   <diagram id="lg2u0JoN67422yNnsTxO" name="Page-1">
-    <mxGraphModel dx="1580" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1053" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -185,7 +185,7 @@
             <mxRectangle width="60" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8HSkS83jHE53M8GRytn5-115" value="Relation: IoT-fähige Maschine" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="8HSkS83jHE53M8GRytn5-115" value="Relation: Datensatz" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="19" y="491" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8HSkS83jHE53M8GRytn5-116" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=9;fontColor=#000000;fillColor=#000066;" vertex="1" parent="1">
